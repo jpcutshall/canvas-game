@@ -1,0 +1,7 @@
+html, body {
+    display: flex;
+    flex-direction: column;
+    background-color: chocolate;
+    justify-content: center;
+    align-items: center;
+}
