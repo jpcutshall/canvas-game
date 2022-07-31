@@ -6,7 +6,7 @@ body {
 }
 
 #canvas {
-
-    cursor: none;
+    cursor: cell;
     display: block;
+    color: white;
 }
